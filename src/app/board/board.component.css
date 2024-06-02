@@ -1,0 +1,10 @@
+main {
+    display: grid;
+    grid-template-columns: repeat(3, 7rem);
+    grid-gap: 0px;
+  }
+
+  .start-button {
+    background-color: beige;
+  }
+  

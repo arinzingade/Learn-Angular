@@ -1,0 +1,20 @@
+
+button {
+    width: 7rem;
+    height: 7rem;
+    font-size: 5em;
+  }
+  
+button.null {
+background-color: lightgray; 
+}
+
+button.X {
+    background-color: beige;
+}
+
+button.O {
+    background-color: blueviolet;
+}
+  
+  
